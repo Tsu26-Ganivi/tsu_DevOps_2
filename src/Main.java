@@ -5,5 +5,5 @@ void main() {
         IO.println("i = " + i);
     }
 
-    System.out.println("Hello world 2");
+    System.out.println("Hello world 4");
 }
